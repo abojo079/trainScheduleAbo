@@ -2,13 +2,13 @@ $(document).ready(function() {
 
     // Your web app's Firebase configuration
     const firebaseConfig = {
-        apiKey: "AIzaSyBn6xPDw2fGBBLr5mvdIwLAIslnQOX8NaU",
-        authDomain: "train-schedule-ce5a8.firebaseapp.com",
-        databaseURL: "https://train-schedule-ce5a8.firebaseio.com",
-        projectId: "train-schedule-ce5a8",
-        storageBucket: "train-schedule-ce5a8.appspot.com",
-        messagingSenderId: "682385458703",
-        appId: "1:682385458703:web:2a1a812ec1efae5d7d057a"
+        apiKey: "AIzaSyCMDO40C21CdkbPguqb6o3x8pOVa8vAAYo",
+        authDomain: "abojoproject.firebaseapp.com",
+        databaseURL: "https://abojoproject.firebaseio.com",
+        projectId: "abojoproject",
+        storageBucket: "abojoproject.appspot.com",
+        messagingSenderId: "65907136976",
+        appId: "1:65907136976:web:fb59187940febc5941c1d5"
     };
 
     // Initialize Firebase
