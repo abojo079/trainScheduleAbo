@@ -1,0 +1,40 @@
+.para {
+    font-style: italic;
+    font-size: 15px;
+}
+
+.scheduleDiv {
+    margin: 30px;
+}
+
+.formDiv {
+    margin: 30px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    border-spacing: 30px;   
+    width:100%;
+    padding: 20px;
+}
+
+th {
+    font-weight: bold;
+}
+
+form {
+    padding: 20px;
+}
+
+button {
+    margin: 10px;
+    margin-bottom: 5px;
+}
+
+.panel {
+    border: solid;
+}
+
+.panel-heading {
+    padding: 5px;
+}
